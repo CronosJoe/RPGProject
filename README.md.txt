@@ -1,0 +1,1 @@
+This is a personal project that I'm working on in my free time feel free to check in, the concept is a 3v3 roguelike battler where the user will be able to adapt their main character while collecting allies.
